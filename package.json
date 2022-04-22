@@ -2,14 +2,27 @@
   "name": "qr-generator",
   "displayName": "QR Generator",
   "description": "Extension to generate QR CODE",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jgalianoz",
+  "icon": "images/qr-generator.png",
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Snippets"
   ],
+  "keywords": [
+    "qr",
+    "generator",
+    "qr generator"
+  ],
+  "author": {
+    "email": "jgalianoz.dev@gmail.com",
+    "name": "Manuel",
+    "url": "https://github.com/jgalianoz"
+  },
+  "license": "MIT",
   "activationEvents": [
     "onCommand:qr-generator.generateQR"
   ],
