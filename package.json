@@ -2,9 +2,9 @@
   "name": "qr-generator",
   "displayName": "QR Generator",
   "description": "Extension to generate QR CODE",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "jgalianoz",
-  "icon": "images/qr-generator.png",
+  "icon": "assets/images/qr-generator.png",
   "engines": {
     "vscode": "^1.66.0"
   },
