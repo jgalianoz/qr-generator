@@ -17,6 +17,11 @@
     "generator",
     "qr generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgalianoz/qr-generator.git"
+  },
+  "homepage": "https://github.com/jgalianoz/qr-generator",
   "author": {
     "email": "jgalianoz.dev@gmail.com",
     "name": "Manuel",
