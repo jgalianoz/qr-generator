@@ -24,10 +24,11 @@ function GenerateQRCode() {
 	const panel = vscode.window.createWebviewPanel(
 		"qrcode",
 		"QR Preview",
-		vscode.ViewColumn.One,
+		{ viewColumn: vscode.ViewColumn.Beside, preserveFocus: true },
 		{}
 	);
 	panel.webview.html = `${imageQR}`;
+	
 }
 
 function activate(context) {
