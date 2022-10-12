@@ -80,4 +80,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Manuel Galindez**
 [@jgalianoz](https://twitter.com/jgalianoz) - jgalianoz.dev@gmail.com
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/jgalianoz)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=Q43UG9FKS2WA8)
+
